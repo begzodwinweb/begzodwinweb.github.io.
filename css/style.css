@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header1 img{
+    height: 500px;
+} 
+.header2 {
+    margin-top: 40px;
+}
+
+footer{
+    background: rgb(75, 74, 74) center center;
+    background-size: cover;
+    height: 100px; 
+}
+footer h3{
+    color: white;
+    font-style: italic ;
+    margin-top: 30px;
+    
+}
+footer h5{
+    color: white;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+header .rasm{
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    
+    
+}
+header .bobosi{
+   width: 300px;
+   height: 300xp;
+   margin-top: 30px;
+    
+}
+header h5{
+    margin-top: 50px;
+    color: white;
+    
+    
+}
+header .mqm{
+    color: red;
+    margin-top: -3px;
+    margin-bottom: -41px;
+}
+.header3 .extra1{
+   width: 200px;
+   height: 200px;
+   margin-top: 20px;
+   
+}
+.header3 .extra2{
+   width: 200px;
+   height: 200px;
+   margin-top: 20px;
+}
+
+.header3 .extra4{
+   width: 200px;
+   height: 200px;
+   margin-top: 20px;
+}
+
+.header3 .extra6{
+   width: 200px;
+   height: 200px;
+   margin-top: 20px;
+}
+.header3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+    
+}
+body{
+     background: url(../gif/Eu2Ii.gif) no-repeat center center;
+     background-size: cover;
+}
